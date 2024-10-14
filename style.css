@@ -1,0 +1,31 @@
+#container1{
+	background-color: #5ec1f2;
+	text-align: center;
+}
+
+.container2{
+	align-content: center;
+	background-color: whitesmoke;
+	opacity: 1;
+	width: 308px;
+	padding: 10px;
+	margin: auto;
+	box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.8);
+
+}
+
+body{
+	background-image: url(https://img.freepik.com/free-photo/mountain-lake-with-snow-covered-mountains-background_1340-39929.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#submit{
+	border-radius: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+label{
+	font-display: Times New Roman;
+}
